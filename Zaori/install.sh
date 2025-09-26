@@ -1,0 +1,1 @@
+cd /home/brunmart/sgoinfre/ZaoriLandingPageTest/Zaori && npm install
